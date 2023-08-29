@@ -1,0 +1,115 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name=”viewport” content=”width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes, maximum-scale=5.0″ />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">		
+	<link rel="stylesheet" href="proposal.css">
+				<meta charset="UTF-8">
+				<title>Proposal</title>
+</head>
+<body>
+				<div class="g1">
+						<div class="group1">
+  				<button id="btt1">NO</button>	
+					<button id="btt2">NO</button>	
+ 		  		<button id="btt3">NO</button>	
+					<button id="btt4">NO</button>	
+					<button id="btt5">NO</button>	
+					<button id="btt6">NO</button>	
+					<button id="btt7">NO</button>				
+					<button id="btt8">NO</button>	
+					<button id="btt9">NO</button>	
+					<button id="btt10">NO</button>	
+					<button id="btt11">NO</button>	
+					<button id="btt12">NO</button>	
+					
+				</div>		
+							<div class="images1">
+				<img class="sadcat" id="sadcat" src="sadcat.jpeg" alt="">
+		<img class="crying" id="crying" src="sad-guy-crying-guy.gif" alt="">
+		
+	<img class="sadboi" id="sadboi" src="sadboi.jpeg" alt="">
+	<img id="sadsad" src="sadsad.jpeg" alt="">
+	</div
+					</div>
+				
+				<div class="ask">
+						
+												<p> <span class="crush">HI NAJEER</span> <br>
+																DO YOU WANT TO SEE HOT AIR BALLOON WITH ME?</p>
+								<div class="btn">
+<a href="yes.html"><button id="btn1">Yes</button>		</a>			    <button id="btn2">No</button>
+								</div>				
+<img id="hands" src="hands.png" alt="">								
+				</div>					
+				
+				<div class="g1">
+				<div class="images2">
+								<div class="group1">
+  					<button id="bbtt1">NO</button>	
+					<button id="bbtt2">NO</button>	
+ 		  		<button id="bbtt3">NO</button>	
+					<button id="bbtt4">NO</button>	
+					<button id="bbtt5">NO</button>	
+					<button id="bbtt6">NO</button>	
+					<button id="bbtt7">NO</button>				
+					<button id="bbtt8">NO</button>	
+					<button id="bbtt9">NO</button>	
+					<button id="bbtt10">NO</button>	
+					<button id="bbtt11">NO</button>	
+					<button id="bbtt12">NO</button>	
+				</div>
+								
+								<div class="images1">
+				
+	<img class="sadman" id="sadman" src="sadman.jpeg" alt="">
+	
+	<img class="hahahuhu" id="hahahuhu" src="sad-man-tik-tok-meme.gif" alt="">
+	
+	<img id="hang" src="hang.jpeg" alt="">
+	
+	<img id="frog" src="frog.jpeg" alt="">
+	
+	</div>																	
+				</div>
+				
+				<div class="fff">
+								<p>created by Andre Jarl</p>
+				</div>
+				
+				<script src="proposalv2.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+				
+<meta name=”viewport” content=”width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes, maximum-scale=5.0″ />
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				
+	 <link rel="stylesheet" href="yes.css">
+				<title>hehe tayo na</title>
+</head>
+<body>
+				<div class="kilig">
+								
+								
+				<img src="kiligsss.jpeg" alt="">
+				
+				<img src="packilig.jpeg" alt="">
+				<p class="ay">AYIEE slide through my dms plssss <3</p>
+				<p class="ay">Welcome to my life my honey bunch sugar plum loml i love you<3</p>
+				<audio id="sound" controls autoplay src="Kinikilig.mp3"></audio>
+				<img src="crykilig.jpeg" alt="">
+				</div>
+	
+</body>
+</html>
+![sad-guy-crying-guy](https://github.com/shehambuger/shehambuger/assets/143509662/198a14bc-5bd8-4363-be21-dfde95f28a19)
+![sadcat](https://github.com/shehambuger/shehambuger/assets/143509662/53980791-a43d-404b-8413-6dad1162a28c)
+![Uploading sadman.jpeg…]()
+![sad-man-tik-tok-meme](https://github.com/shehambuger/shehambuger/assets/143509662/bd1506c7-6440-48b5-b3d2-fd47f8a0fb17)
+![hang](https://github.com/shehambuger/shehambuger/assets/143509662/a53d4d14-a2f8-44dd-a417-ff8ec8a4da30)
+![frog](https://github.com/shehambuger/shehambuger/assets/143509662/f844abf7-4d70-4f22-90b0-f0764de7b7db)
